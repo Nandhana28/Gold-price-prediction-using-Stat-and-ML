@@ -1,0 +1,9 @@
+/* Custom CSS for ChrysaNova Dashboard */
+
+.badge {
+  font-size: 0.9em;
+}
+
+.card {
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
